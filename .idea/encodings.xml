@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_002/chess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_002/chess/src/main/java/ru/job4j/StartUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_002/tracker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_003/src/main/resources/phrase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_005" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_007" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_008" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_009" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_009/task_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap_009/task_2" charset="UTF-8" />
+  </component>
+</project>

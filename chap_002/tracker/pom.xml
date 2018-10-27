@@ -1,0 +1,31 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+	<groupId>ru.job4j.tracker</groupId>
+    <artifactId>tracker</artifactId>
+    <version>2.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-xjc</artifactId>
+            <version>2.2.7</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+    <packaging>jar</packaging>
+	
+    <parent>
+        <groupId>ru.job4j</groupId>
+        <artifactId>chap_002</artifactId>
+        <version>2.0</version>
+    </parent>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>2.4.3</version>
+            </plugin>
+        </plugins>
+    </build>
+</project>
