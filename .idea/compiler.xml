@@ -11,13 +11,13 @@
         <module name="chap_004" />
         <module name="chap_005" />
         <module name="chap_007" />
-        <module name="chap_008" />
         <module name="chapter_001" />
         <module name="chess" />
         <module name="chess (1) (ru.job4j.chess)" />
         <module name="models" />
         <module name="models (1) (ru.smirnov.chapter_002.start)" />
         <module name="task_1" />
+        <module name="task_2" />
         <module name="task_2 (1)" />
         <module name="tracker" />
       </profile>

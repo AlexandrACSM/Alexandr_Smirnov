@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>chap_002</artifactId>
+    <version>2.0</version>
+    <packaging>pom</packaging>
+    <parent>
+        <groupId>ru.job4j</groupId>
+        <artifactId>Alexandr_Smirnov</artifactId>
+        <version>2.0</version>
+    </parent>
+    <modules>
+        <module>tracker</module>
+        <module>chess</module>
+    </modules>
+</project>

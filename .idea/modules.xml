@@ -9,11 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/chap_005/chap_005.iml" filepath="$PROJECT_DIR$/chap_005/chap_005.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_007/chap_007.iml" filepath="$PROJECT_DIR$/chap_007/chap_007.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_008/chap_008.iml" filepath="$PROJECT_DIR$/chap_008/chap_008.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap_009/chap_009.iml" filepath="$PROJECT_DIR$/chap_009/chap_009.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_002/chess/chess.iml" filepath="$PROJECT_DIR$/chap_002/chess/chess.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_009/task_01.iml" filepath="$PROJECT_DIR$/chap_009/task_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap_009/task_1/task_1.iml" filepath="$PROJECT_DIR$/chap_009/task_1/task_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap_009/task_2.iml" filepath="$PROJECT_DIR$/chap_009/task_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_008/task_1/task_1.iml" filepath="$PROJECT_DIR$/chap_008/task_1/task_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_008/task_2/task_2.iml" filepath="$PROJECT_DIR$/chap_008/task_2/task_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_002/tracker/tracker.iml" filepath="$PROJECT_DIR$/chap_002/tracker/tracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap_009/webproject.iml" filepath="$PROJECT_DIR$/chap_009/webproject.iml" />
     </modules>

@@ -4,14 +4,14 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="chap_009" />
+          <element id="module-output" name="chap_008" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.13" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/chap_009/target/chap_009-2.0/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/chap_008/target/chap_009-2.0/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="chap_009/web/Web" />
     </root>
