@@ -8,203 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7552cefd-67fc-4482-99da-d6cee809b320" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap_008/task_1/target/classes/ru/job4j/EchoServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/task_2_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/task_2_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap_008/task_1/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap_008/task_2/task_2.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/AddElementInArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/BubblesSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/CheckLine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/CheckSortArrayOrNotSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/DeleteElementArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/Turn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/TurnArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/TwoArraySort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/calculate/Calculate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/counter/Counter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/factorial/Factorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/factorial/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/classes/ru/job4j/max/Max.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/AddElementInArrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/BubbleSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/CalculateTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/CheckLineTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/CheckSortArrayOrNotSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/CounterTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/DeleteElementArrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/FactorialTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/MaxTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/TurnArrayTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/TurnTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_001/target/test-classes/ru/job4j/TwoArraysSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_002/chess/target/test-classes/ru/job4j/ChessTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/DropAbuse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/FileSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/IsNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/Setting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/Action.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/Setting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/client/Client.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/client/StartBotClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/server/Server.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/bot/server/StartServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/ConsoleChat$CommandFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/ConsoleChat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/Setting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/Command.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/ExitCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/NotFinishCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/ProcessingCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/StartCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/chat/command/StopCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/Manager$OperationsFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/Manager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/client/FileManagerClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/client/StartClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/operations/CdOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/operations/CopyOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/operations/DirOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/operations/HelpOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/operations/Operation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/server/FileManagerServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/file/manager/server/StartServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/palindrome/PalindromeAnalysis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/palindrome/input/PalindromeConsoleInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/palindrome/input/PalindromeInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/palindrome/output/PalindromeConsoleOutputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/classes/ru/job4j/palindrome/output/PalindromeOutPutController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/BotTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/ConsoleChatTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/DropAbuseTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/FileManagerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/FileSortTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/IsNumberTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/file/manager/ManagerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/file/manager/operations/CdOperationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/file/manager/operations/CopyOperationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_003/target/test-classes/ru/job4j/file/manager/operations/DirOperationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/isp/Action.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/isp/ActionsFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/isp/MenuItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/ControlQuality.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/FoodProcessing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/Shop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/Storehouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/Trash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/TypeStorehouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/Warehouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/food/Curd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/food/Food.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/lsp/food/Milk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/InteractCalc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/Start.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/input/Input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/input/InputConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/EquallyOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/ExitOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/Operations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/OperationsFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/AddOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/DivOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/MultiplyOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/PowOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/SinOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/SquareRootOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/operations/arithmetic/SubOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/output/Output.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/srp/calculator/output/OutputConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tdd/SimpleGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/Board.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/Cell.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/CoordinatesExeption.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/GameLogic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/ProcessGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/StartUI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/StatusCell.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/UI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/Input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/InputConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/InputCoordinates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/InputCoordinatesConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/InputIntValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/input/InputIntValueConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/output/OutputTicTacToe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/output/OutputTicTacToeConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/player/Bot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/player/Player.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/player/PlayerUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/classes/ru/job4j/tictactoe/player/PlayersFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/InteractCalcTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/calculator/InteractCalcTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/calculator/input/InputConsoleTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/calculator/output/OutputConsoleTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/lsp/ControlQualityTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/lsp/FoodTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/tictactoe/GameLogicTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_004/target/test-classes/ru/job4j/srp/tictactoe/PlayFactoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/jmm/MultithreadingProblem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/UserStorage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/counter/Count.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/counter/CounterThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/input/ConcoleUserStoreInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/synchronizy/input/UserStoreInputController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/threads/CountSpace.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/threads/CountWord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/threads/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/threads/StartCounter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/wait/ParallelSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/wait/ProducerCustomer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/classes/ru/job4j/wait/SimpleBlockingQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/test-classes/ru/job4j/CountSpaceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/test-classes/ru/job4j/CountTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/test-classes/ru/job4j/CountTest$ThreadCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/test-classes/ru/job4j/CountTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_007/target/test-classes/ru/job4j/UserStorageTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_008/src/main/java/ru/job4j/App.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_008/src/main/main9.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_008/src/test/java/ru/job4j/AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_009/chap_009.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_009/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/task_1-2.0/WEB-INF/classes/ru/job4j/EchoServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/task_1-2.0/WEB-INF/web.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap_002/chess/target/classes/ru/job4j/figure/Bishop.class" afterPath="$PROJECT_DIR$/chap_002/chess/target/classes/ru/job4j/figure/Bishop.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap_002/chess/target/classes/ru/job4j/figure/Figure.class" afterPath="$PROJECT_DIR$/chap_002/chess/target/classes/ru/job4j/figure/Figure.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/chap_009_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/chap_009_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/task_1_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/task_1_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/task_1_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/task_1_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Alexandr_Smirnov.iml" afterPath="$PROJECT_DIR$/Alexandr_Smirnov.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap_002/chess/chess.iml" afterPath="$PROJECT_DIR$/chap_002/chess/chess.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap_008/chap_008.iml" afterPath="$PROJECT_DIR$/chap_008/chap_008.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap_008/pom.xml" afterPath="$PROJECT_DIR$/chap_008/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/pom.xml" afterPath="$PROJECT_DIR$/chap_008/task_1/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/src/main/java/main3.iml" afterPath="$PROJECT_DIR$/chap_008/task_1/src/main/java/main3.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/src/main/java/ru.job4j/EchoServlet.java" afterPath="$PROJECT_DIR$/chap_008/task_1/src/main/java/ru.job4j/EchoServlet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/chap_008/task_1/target/task_1-2.0/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/classes/ru/job4j/EchoServlet.class" afterPath="$PROJECT_DIR$/chap_008/task_1/target/task_1-2.0/WEB-INF/classes/ru/job4j/EchoServlet.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/task_1-2.0.war" afterPath="$PROJECT_DIR$/chap_008/task_1/target/task_1-2.0.war" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/task_1-2.0/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/chap_008/task_1/target/task_1-2.0/META-INF/MANIFEST.MF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/target/task_1-2.0/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="$PROJECT_DIR$/chap_008/task_1/target/task_1-2.0/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_1/task_1.iml" afterPath="$PROJECT_DIR$/chap_008/task_1/task_1.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2.iml" afterPath="$PROJECT_DIR$/chap_008/task_2.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/pom.xml" afterPath="$PROJECT_DIR$/chap_008/task_2/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/services/AbstractSqlService.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/services/AbstractSqlService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/services/user/SqlUserServices.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/services/user/SqlUserServices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/services/user/User.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/services/user/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/services/user/UserServices.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/services/user/UserServices.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/servlet/UserServlet.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/servlet/UserServlet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/sql/JDBCSqlConnectionFactory.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/sql/JDBCSqlConnectionFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/java/ru/job4j/sql/SqlConnectionFactory.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/java/ru/job4j/sql/SqlConnectionFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/main/main6.iml" afterPath="$PROJECT_DIR$/chap_008/task_2/src/main/main6.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chap_009/task_2/src/test/java/ru/job4j/SqlUserServiceTest.java" afterPath="$PROJECT_DIR$/chap_008/task_2/src/test/java/ru/job4j/SqlUserServiceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_gitignore.txt" afterPath="$PROJECT_DIR$/_gitignore.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/chapter_001/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -302,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqlUserServiceTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SqlUserServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap_008/task_2/src/test/java/ru/job4j/SqlUserServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
@@ -329,6 +134,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
               <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_gitignore.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -393,7 +208,6 @@
         <option value="$PROJECT_DIR$/chap_007/src/test/java/ru/job4j/UserStorageTest.java" />
         <option value="$PROJECT_DIR$/chap_007/src/main/java/ru/job4j/synchronizy/input/UserStoreInputController.java" />
         <option value="$PROJECT_DIR$/chap_007/src/main/java/ru/job4j/synchronizy/counter/Count.java" />
-        <option value="$PROJECT_DIR$/_gitignore.txt" />
         <option value="$PROJECT_DIR$/chap_007/src/main/java/ru/job4j/wait/SimpleBlockongQueue.java" />
         <option value="$PROJECT_DIR$/chap_007/src/main/java/ru/job4j/wait/SimpleBlockingQueue.java" />
         <option value="$PROJECT_DIR$/chap_007/src/main/java/ru/job4j/jmm/MultithreadingProblem.java" />
@@ -411,6 +225,7 @@
         <option value="$PROJECT_DIR$/chap_008/task_1/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/chap_008/pom.xml" />
         <option value="$PROJECT_DIR$/chap_008/task_2/src/test/java/ru/job4j/SqlUserServiceTest.java" />
+        <option value="$PROJECT_DIR$/_gitignore.txt" />
       </list>
     </option>
   </component>
@@ -604,6 +419,33 @@
               <item name="chap_008" type="462c0819:PsiDirectoryNode" />
               <item name="task_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alexandr_Smirnov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alexandr_Smirnov" type="462c0819:PsiDirectoryNode" />
+              <item name="chap_008" type="462c0819:PsiDirectoryNode" />
+              <item name="task_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alexandr_Smirnov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alexandr_Smirnov" type="462c0819:PsiDirectoryNode" />
+              <item name="chap_008" type="462c0819:PsiDirectoryNode" />
+              <item name="task_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alexandr_Smirnov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alexandr_Smirnov" type="462c0819:PsiDirectoryNode" />
+              <item name="chap_008" type="462c0819:PsiDirectoryNode" />
+              <item name="task_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="job4j" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Alexandr_Smirnov" type="b2602c69:ProjectViewProjectNode" />
@@ -1467,7 +1309,7 @@
       <workItem from="1547370364646" duration="3764000" />
       <workItem from="1549177811252" duration="3000" />
       <workItem from="1549779321312" duration="12104000" />
-      <workItem from="1552988575041" duration="3035000" />
+      <workItem from="1552988575041" duration="3807000" />
     </task>
     <servers />
   </component>
@@ -1504,7 +1346,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1147911000" />
+    <option name="totallyTimeSpent" value="1148683000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1517,7 +1359,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24149108" sideWeight="0.69093853" order="10" side_tool="true" content_ui="tabs" />
@@ -1529,7 +1370,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5169683" sideWeight="0.4393204" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5169683" sideWeight="0.4393204" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30656108" sideWeight="0.41343042" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1538,7 +1379,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6877828" sideWeight="0.3090615" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22540046" sideWeight="0.50242716" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22511312" sideWeight="0.50242716" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23899034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -2380,14 +2221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_gitignore.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap_002/chess/src/test/java/ru/job4j/ChessTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
@@ -2453,6 +2286,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
