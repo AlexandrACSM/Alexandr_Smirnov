@@ -32,8 +32,8 @@
       <module name="chap_008" target="1.8" />
       <module name="chap_009" target="1.8" />
       <module name="chess" target="1.8" />
-      <module name="task_1" target="1.8" />
-      <module name="task_2" target="1.8" />
+      <module name="task_1" target="1.5" />
+      <module name="task_2" target="1.5" />
       <module name="tracker" target="1.8" />
     </bytecodeTargetLevel>
   </component>

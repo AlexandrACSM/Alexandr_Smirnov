@@ -6,9 +6,6 @@
         <element id="directory" name="classes">
           <element id="module-output" name="task_2" />
         </element>
-        <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
-        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/chap_008/task_2/target/task_2-2.0/META-INF/MANIFEST.MF" />
